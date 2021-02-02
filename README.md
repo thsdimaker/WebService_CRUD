@@ -59,5 +59,17 @@ Gradle 6.7.1
 ## 2021.02.02
 # 1차 보고서 : 게시판 CRUD(완성)
 
+![s4](https://user-images.githubusercontent.com/59603054/106556104-34162900-6562-11eb-98d2-f6da35445b2d.png)
+![s5](https://user-images.githubusercontent.com/59603054/106556106-35475600-6562-11eb-90e4-a855c49af792.png)
+![s6](https://user-images.githubusercontent.com/59603054/106556107-35475600-6562-11eb-837a-aa56d15ebe3a.png)
+![s7](https://user-images.githubusercontent.com/59603054/106556108-35dfec80-6562-11eb-8ebd-1a82aa4e26a6.png)
+![s8](https://user-images.githubusercontent.com/59603054/106556110-35dfec80-6562-11eb-942a-62ff220ae5de.png)
+![s9](https://user-images.githubusercontent.com/59603054/106556111-36788300-6562-11eb-9be5-015b693ca2b6.png)
+![s10](https://user-images.githubusercontent.com/59603054/106556112-36788300-6562-11eb-9869-d5c78fd9925e.png)
+![s11](https://user-images.githubusercontent.com/59603054/106556113-37111980-6562-11eb-97e0-3b895b15eb69.png)
+![s1](https://user-images.githubusercontent.com/59603054/106556114-37111980-6562-11eb-8ff2-004c9a170f64.png)
+![s2](https://user-images.githubusercontent.com/59603054/106556117-37a9b000-6562-11eb-912d-7dcdabd20a6a.png)
+![s3](https://user-images.githubusercontent.com/59603054/106556119-37a9b000-6562-11eb-80f9-67534fe60776.png)
+
 
 
