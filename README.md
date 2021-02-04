@@ -58,6 +58,8 @@ Gradle 6.7.1
 5. Git main브랜치에서 마음대로 checkout 과 reset을 남발하다가 일을 두번하게되었다.
 내가 작성하고 있는 Branch가 어디인지 정확히 알아야 하며, main으로 병합 할 때 방법을 정확히 알아야 겠다.
 
+6. 예전 Java기반의 Framework인 Spring을 다뤄봤었을 때 소흘 했던것과 Spring Boot 와의 상호보완을 해나가야겠다.
+
 
 ## 2021.02.02
 # 1차 보고서 : 게시판 CRUD(완성)
