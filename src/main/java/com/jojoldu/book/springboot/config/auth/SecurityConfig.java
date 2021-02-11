@@ -1,10 +1,13 @@
 package com.jojoldu.book.springboot.config.auth;
 
+import com.jojoldu.book.springboot.domain.user.Role;
 import lombok.RequiredArgsConstructor;
-import org.h2.engine.Role;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 import org.springframework.security.config.annotation.web.configuration.EnableWebSecurity;
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+import org.springframework.security.oauth2.client.userinfo.OAuth2UserRequest;
+import org.springframework.security.oauth2.client.userinfo.OAuth2UserService;
+import org.springframework.security.oauth2.core.user.OAuth2User;
 
 @RequiredArgsConstructor
 @EnableWebSecurity
@@ -28,7 +31,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
                 .and()
                 .oauth2Login()
                 .userInfoEndpoint()
-                .userService(customOAuth2UserService);
+                .userService((OAuth2UserService<OAuth2UserRequest, OAuth2User>) customOAuth2UserService);
     }
 
 }

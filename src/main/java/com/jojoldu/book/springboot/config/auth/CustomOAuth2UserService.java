@@ -17,9 +17,10 @@ import org.springframework.stereotype.Service;
 import javax.servlet.http.HttpSession;
 import java.util.Collections;
 
+
 @RequiredArgsConstructor
 @Service
-public class CustomOAuth2UserService {
+public class CustomOAuth2UserService implements OAuth2UserService<OAuth2UserRequest, OAuth2User> {
 
     private final UserRepository userRepository;
     private final HttpSession httpSession;
@@ -52,4 +53,5 @@ public class CustomOAuth2UserService {
 
         return userRepository.save(user);
     }
+
 }
