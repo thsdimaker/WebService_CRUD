@@ -20,8 +20,6 @@ test { // (2)
 
 dependencies {
 
-    compile('org.springframework.boot:spring-boot-starter-mustache')
-    //(3)
     implementation('org.springframework.boot:spring-boot-starter-web')
     implementation('org.springframework.boot:spring-boot-starter-mustache')
 
