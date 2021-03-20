@@ -90,6 +90,8 @@ Gradle 6.7.1
 
 6. 예전 Java기반의 Framework인 Spring을 다뤄봤었을 때 소흘 했던것과 Spring Boot 와의 상호보완을 해나가야겠다.
 
+7. CRUD에 대해를 조금더 심도 깊게 해야겠다.
+
 
 # Java 관례
 
