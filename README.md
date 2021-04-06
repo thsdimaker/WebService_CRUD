@@ -141,7 +141,7 @@ Ex)
 
 
 
-# 학습 내용
+# Code Review(+Learning Why)
 
 * CI / CD 환경
 
