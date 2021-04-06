@@ -138,5 +138,19 @@ Ex)
 
 
 
+# 학습 내용
 
+* CI / CD 환경
 
+repositories{
+
+    mavenCentral()
+
+    jcenter()
+}
+
+mavenCentral() 보다는 jcenter()를 선호하는편이다.
+
+이유? mavenCentral()에는 라이브러리 추가시
+
+설정 후 충돌 나는 경우가 존재
